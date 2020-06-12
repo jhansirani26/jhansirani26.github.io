@@ -1,0 +1,50 @@
+
+body{
+	background:#ffffff;
+	margin:2%;
+	font-size: 150%;
+
+}
+
+header{
+	background: #ff69b4;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+h1{
+	color: #000000;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 150%;
+}
+
+h2{
+	color: #000000;
+	background: #ff69b4;
+}
+
+section{
+	width:30%;
+	margin-right: 2%;
+	display:inline-block;
+	float:left;
+}
+
+summary{
+	font-style:normal;
+}
+
+details{
+	font-style: italic;
+}
+
+
+
+img.center{
+	width: 200px;
+
+}
